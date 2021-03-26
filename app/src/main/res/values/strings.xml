@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adivina</string>
+    <string name="string_description">Adivina-adivinador</string>
+    <string name="start">INICIAR</string>
+    <string name="tv1">Ingrese un número del 0 al 100</string>
+    <string name="verify">VERIFICAR</string>
+    <string name="again">JUGAR OTRA VEZ</string>
+
+</resources>
